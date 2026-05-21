@@ -34,19 +34,13 @@ AI/ML Developer focused on building intelligent systems using deep learning and 
 
 ---
 
-## 📌 Current Projects
+## 📌 Current Focus
 
-### Vision Transformer for Cancer Detection
-- Medical image classification using Vision Transformers
-- Probability prediction and suspicious region localization
-
-### Transformer From Scratch
-- Building encoder and decoder architectures manually using PyTorch
-- Understanding attention mechanisms deeply
-
-### AAG - Auto Agriculture System
-- AI-powered smart farming system
-- Sensors, drones, automated irrigation and AI decision engine
+- Building Transformers from scratch using PyTorch
+- Studying attention mechanisms and deep learning architectures
+- Exploring Computer Vision and Vision Transformers
+- Designing AI-powered intelligent systems
+- Learning efficient and scalable AI model design
 
 ---
 
